@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{304935DA-4B7D-4D77-BD4C-197104BFA319}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebFrontToBack PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/Admin/Views/Category/Update.cshtml">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="11" Column="6" />
+      <File FileName="Program.cs" Line="33" Column="6" />
+      <File FileName="Areas/Admin/Controllers/HomeController.cs" Line="13" Column="8" />
+      <File FileName="Areas/Admin/Views/Home/Index.cshtml" Line="6" Column="1" />
+      <File FileName="Areas/Admin/Controllers/DashboardController.cs" Line="21" Column="1" />
+      <File FileName="Areas/Admin/Views/Dashboard/Index.cshtml" Line="7" Column="24" />
+      <File FileName="Areas/Admin/Views/Shared/_Layout.cshtml" Line="211" Column="62" />
+      <File FileName="Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Views/Category/Create.cshtml" Line="12" Column="23" />
+      <File FileName="appsettings.json" Line="13" Column="1" />
+      <File FileName="appsettings.Development.json" Line="9" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="85" Column="56" />
+      <File FileName="Areas/Admin/Views/Category/Index.cshtml" Line="37" Column="139" />
+      <File FileName="Areas/Admin/Controllers/CategoryController.cs" Line="72" Column="10" />
+      <File FileName="Models/Category.cs" Line="12" Column="6" />
+      <File FileName="Areas/Admin/Views/Category/Update.cshtml" Line="12" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebFrontToBack" expanded="True">
+            <Node name="WebFrontToBack" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="CategoryController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views" expanded="True">
+                    <Node name="Category" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
